@@ -9,7 +9,7 @@ body:
         Please do not submit a bug report for a network issue, unless it's an issue specific to ViTune.
 
         ## ⚠️ Make sure you are able to reproduce the bug with the [latest version](https://github.com/25huizengek1/ViTune/releases/latest).
-        ## ⚠️ Make sure there is no issue about this bug already.
+        ## ⚠️ Make sure there is no issue about jhvhg this bug already.
 
   - type: textarea
     id: reproduce-steps
